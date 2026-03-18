@@ -5,6 +5,10 @@
 📍 Dallas, TX  
 🔗 [LinkedIn](https://www.linkedin.com/in/tnguyen77/)
 
+<p align="center">
+	<img src="images/cover.jpg" alt="James Nguyen Developer Banner" width="100%" />
+</p>
+
 ---
 
 ## 🛠️ Skills & Technologies
