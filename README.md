@@ -1,70 +1,116 @@
-<!-- HEADER / RECIPE -->
-# Hi, I'm James Nguyen 👋  
-**Backend Python Developer | Data Engineer | Discord & Web Developer**
+# Hi, I'm James Nguyen
+**Software Developer | Data Engineer | Generative AI Engineer**
 
 📍 Dallas, TX  
 🔗 [LinkedIn](https://www.linkedin.com/in/tnguyen77/)
 
 <p align="center">
-	<img src="images/cover.jpg" alt="James Nguyen Developer Banner" width="100%" />
+  <img src="images/cover.jpg" alt="James Nguyen Developer Banner" width="100%" />
 </p>
 
 ---
 
-## 🛠️ Skills & Technologies
+## FAANG-Focused Profile
 
-### Languages & Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+I build production-grade backend, data, and AI systems with a focus on scale, reliability, and measurable business impact.
+
+- Design and ship distributed data pipelines and backend services
+- Build GenAI applications with retrieval, orchestration, and evaluation workflows
+- Deliver cloud-native systems across batch and real-time workloads
+- Apply strong engineering fundamentals in algorithms, system design, and ownership
 
 ---
 
-## 📊 GitHub Stats
+## Core Strengths (What Top Companies Screen For)
 
-<!-- Profile stats card -->
-![James’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jwin-sudo&show_icons=true&theme=tokyonight&count_private=true)
+- **Scalable System Design:** backend and data architectures for high throughput and reliability
+- **Data + AI Integration:** LLM applications connected to governed data platforms
+- **Distributed Processing:** batch and streaming pipelines using modern big-data tooling
+- **Cloud Execution:** production delivery on AWS with serverless and data services
+- **Engineering Discipline:** clean code, CI/CD, observability, and end-to-end ownership
 
-<!-- Most languages -->
+---
+
+## Technical Skills
+
+### AI and Language Engineering
+- Prompt engineering
+- LLM orchestration with LangChain and LangGraph
+- RAG and vector search
+- ChromaDB and vector database workflows
+
+### Languages
+- Python, SQL, JavaScript, TypeScript, Shell
+- Java, Scala
+- ReactJS, Node.js
+
+### Data Science and Analytics
+- NumPy, Pandas, Matplotlib, Scikit-learn
+
+### Big Data and Distributed Systems
+- Apache Spark (PySpark), Hadoop, Hive, HDFS
+- Kafka, Presto, Polars
+
+### Cloud and Data Platforms
+- AWS: Bedrock, S3, Glue, Redshift, Athena, Lambda, RDS, Kinesis, SNS/SQS, CloudWatch
+- Snowflake
+- Exposure to Azure and GCP (Vertex AI)
+
+### Data Engineering and ETL
+- Data pipeline design and orchestration
+- Ingestion and transformation
+- Real-time streaming
+- Data lake and warehouse patterns
+- Airflow, Terraform, Kinesis
+
+### Backend and APIs
+- FastAPI, Flask, Django
+- REST API design
+- AWS API Gateway and Lambda
+- Serverless workflows
+- Familiarity with Spring Boot
+
+### Databases
+- PostgreSQL, MySQL, Redshift, MongoDB
+
+### DevOps and Tooling
+- Docker, Kubernetes, Jenkins
+- Git, GitHub Actions, CI/CD
+- AWS ECS, Bitbucket, Splunk
+
+### Data Formats
+- JSON, CSV, Parquet, Avro, ORC
+
+---
+
+## Selected Projects
+
+### Flask-Flashcards
+Backend web application demonstrating API design, data modeling, and product execution.  
+Repo: https://github.com/jwin-sudo/Flask-Flashcards
+
+### Java-Solutions
+Algorithms and data structure practice for interview-grade problem solving.  
+Repo: https://github.com/jwin-sudo/Java-Solutions
+
+### React-Express-App
+Full-stack app demonstrating frontend-backend integration and service design.  
+Repo: https://github.com/jwin-sudo/React-Express-App
+
+---
+
+## GitHub Metrics
+
+![James GitHub stats](https://github-readme-stats.vercel.app/api?username=jwin-sudo&show_icons=true&theme=tokyonight&count_private=true)
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jwin-sudo&layout=compact&theme=tokyonight)
 
 ---
 
-## 🚀 Featured Projects
+## Contact
 
-### 🔗 **Flask‑Flashcards**
-📌 A flashcard web app built with Flask.  
-📍 Repo: https://github.com/jwin-sudo/Flask-Flashcards
-
-### 🧠 **Java‑Solutions**
-📌 Collection of Java algorithm & data structure solutions.  
-📍 Repo: https://github.com/jwin-sudo/Java-Solutions
-
-### 🌐 **React‑Express‑App**
-📌 Full‑stack React + Express project.  
-📍 Repo: https://github.com/jwin-sudo/React-Express-App
-
-*(Feel free to update descriptions / featured projects to match your favorites)*
+📧 Email: jamesnguyen649@gmail.com  
 
 ---
 
-## 📫 How to Reach Me
-
-📧 Email: `your.email@example.com`  
-🔗 LinkedIn: https://www.linkedin.com/in/tnguyen77/  
-✉️ Discord: jwin-sudo#0001
-
----
-
-## 🏆 Fun Stuff
-
-![Coding GIF](https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif)
-
----
-
-Thanks for stopping by! 👀  
+Open to Software Engineer, Data Engineer, and Applied AI Engineer opportunities.
