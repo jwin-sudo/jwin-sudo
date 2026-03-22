@@ -10,7 +10,7 @@
 
 ---
 
-## FAANG-Focused Profile
+## About me - 
 
 I build production-grade backend, data, and AI systems with a focus on scale, reliability, and measurable business impact.
 
@@ -21,7 +21,7 @@ I build production-grade backend, data, and AI systems with a focus on scale, re
 
 ---
 
-## Core Strengths (What Top Companies Screen For)
+## Core Strengths 
 
 - **Scalable System Design:** backend and data architectures for high throughput and reliability
 - **Data + AI Integration:** LLM applications connected to governed data platforms
@@ -83,7 +83,7 @@ I build production-grade backend, data, and AI systems with a focus on scale, re
 
 ---
 
-## Selected Projects
+## Projects
 
 ### Flask-Flashcards
 Backend web application demonstrating API design, data modeling, and product execution.  
